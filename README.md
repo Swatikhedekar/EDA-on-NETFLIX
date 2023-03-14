@@ -5,3 +5,4 @@ his Netflix Dataset has information about the TV shows and Movies available on N
 
 **Dataset link:** [https://github.com/Swatikhedekar/EDA-on-NETFLIX-dataset
 ](https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data)
+This project guided by FSDA python class.
